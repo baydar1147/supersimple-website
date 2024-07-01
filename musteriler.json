@@ -1,0 +1,23 @@
+{
+    "musteriler": [
+        {
+            "musteri_id": 1,
+            "ad": "Mamy",
+            "telefon": "5526992039",
+            "ulke": "tr",
+            "notlar": "sex uzman\u0131 ",
+            "eklenme_tarihi": "2024-07-01T21:57:17.062100",
+            "borc": 0.0
+        },
+        {
+            "musteri_id": 2,
+            "ad": "ya\u011f\u0131z",
+            "telefon": "31313131",
+            "ulke": "ispanya",
+            "notlar": "testis ald\u0131rma ameliyat\u0131",
+            "eklenme_tarihi": "2024-07-01T22:01:24.135598",
+            "borc": 5000.0
+        }
+    ],
+    "sonraki_id": 3
+}
